@@ -16,3 +16,8 @@ HTML, CSS, Javascript
 # Live Project
 
 https://borndaylucky.netlify.app/
+
+# Screen Shots 
+
+![bdaylucky](https://user-images.githubusercontent.com/116138513/208688005-1a1ffbba-6330-4225-9a1d-3f46a8bfd1a6.PNG)
+
